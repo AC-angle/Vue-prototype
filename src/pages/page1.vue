@@ -6,7 +6,7 @@ export default {
   mounted() {
     
     // todo
-    document.title='                                                                              .'
+    document.title='\u200E'
 
   }
 };
