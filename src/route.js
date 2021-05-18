@@ -6,12 +6,18 @@ Vue.use(VueRouter);
 // 引入菜单
 import Menu from './pages/menu.vue';
 
+import Page1 from './pages/page1.vue';
+
 // 配置路由
 const router = new VueRouter({
   routes: [
     {
       path: '/menu',
       component: Menu
+    },
+    {
+      path: '/page1',
+      component: Page1
     },
     {
       path: '/*',
