@@ -1,5 +1,5 @@
 <template>
-    <div>页面1</div>
+    <div>页面1888888888</div>
 </template>
 <script>
 export default {
