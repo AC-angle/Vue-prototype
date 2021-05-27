@@ -26,6 +26,7 @@
   "homepage": "https://github.com/yelloxing/Vue2.js#readme",
   "dependencies": {
     "@hai2007/style": "^0.2.1",
+    "clunch": "^1.6.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
   },
