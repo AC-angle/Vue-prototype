@@ -7,6 +7,7 @@ Vue.use(VueRouter);
 import Menu from './pages/menu.vue';
 
 import Page1 from './pages/page1.vue';
+import Page2 from './pages/page2.vue';
 
 // 配置路由
 const router = new VueRouter({
@@ -18,6 +19,10 @@ const router = new VueRouter({
     {
       path: '/page1',
       component: Page1
+    },
+    {
+      path: '/page2',
+      component: Page2
     },
     {
       path: '/*',
