@@ -1,9 +1,4 @@
-# Vue 原型
-🎯 基于Vue.js搭建的原型项目。
-
-## 贡献者
-
-- [心叶](https://github.com/yelloxing)（yelloxing@gmail.com）
+# Vue2.js
 
 ## 如何使用
 
@@ -21,6 +16,6 @@ npm run build
 
 ## License
 
-[MIT](https://github.com/AC-angle/Vue-prototype/blob/master/LICENSE)
+[MIT](https://github.com/yelloxing/Vue2.js/blob/master/LICENSE)
 
-Copyright (c) 2020 AC-angle
+Copyright (c) 2020 心叶

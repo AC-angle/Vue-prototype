@@ -1,7 +1,7 @@
 {
-  "name": "vue-prototype",
-  "version": "0.1.0",
-  "description": "🎯 基于Vue.js搭建的原型项目。",
+  "name": "vue2.js",
+  "version": "0.0.0",
+  "description": "🎯 Vue2.js项目",
   "main": "./build/main.js",
   "scripts": {
     "start": "npm install && npm run dev",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AC-angle/Vue-prototype.git"
+    "url": "git+https://github.com/yelloxing/Vue2.js.git"
   },
   "keywords": [
     "vue",
@@ -21,25 +21,25 @@
   "author": "yelloxing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AC-angle/Vue-prototype/issues"
+    "url": "https://github.com/yelloxing/Vue2.js/issues"
   },
-  "homepage": "https://github.com/AC-angle/Vue-prototype#readme",
+  "homepage": "https://github.com/yelloxing/Vue2.js#readme",
   "dependencies": {
-    "@yelloxing/normalize.css": "^0.2.1",
-    "image2d": "^1.7.2",
+    "@hai2007/style": "^0.2.1",
+    "clunch": "^1.6.0",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "autoprefixer": "^9.7.3",
-    "babel-loader": "^8.0.6",
+    "@babel/core": "^7.0.2",
+    "@babel/preset-env": "^7.0.2",
+    "autoprefixer": "^9.7.1",
+    "babel-loader": "^8.1.0",
     "babel-plugin-dynamic-import-webpack": "^1.1.0",
     "css-loader": "^2.1.1",
     "cuf": "^1.2.0",
-    "file-loader": "^4.3.0",
-    "node-sass": "^4.14.1",
+    "file-loader": "^4.2.0",
+    "node-sass": "^4.13.1",
     "postcss": "^7.0.24",
     "postcss-loader": "^3.0.0",
     "sass-loader": "^7.3.1",

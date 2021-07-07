@@ -1,11 +1,16 @@
 <template>
-  <div>Tips：基于Webpack4搭建的Vue2.js原型项目</div>
+  <div>Tips：Vue2.js项目
+
+<a href="#/Page1">加入页面1</a>
+
+  </div>
 </template>
 <script>
 export default {
   mounted() {
     
     // todo
+    document.title='我是菜单'
 
   }
 };

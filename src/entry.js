@@ -7,7 +7,7 @@ import App from './App.vue';
 import router from './route';
 
 // 引入基础样式
-import '@yelloxing/normalize.css';
+import '@hai2007/style/normalize.css';
 
 //根对象
 window.vm = new Vue({
